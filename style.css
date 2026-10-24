@@ -96,3 +96,21 @@ nav a {
     height: auto;
     display: block;
 }
+
+header,
+footer {
+    padding: 1rem 0;
+}
+
+article,
+aside {
+    min-width: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+}
